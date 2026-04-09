@@ -1,0 +1,1 @@
+"""Tests package for the activity management system"""
